@@ -1,0 +1,24 @@
+# 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.crf
+*.d
+*.lst
+*.map
+*.axf
+*.htm
+*.dep
+*.lnp
+*.sct
+*.bak
+
+# Keil 个人配置
+*.uvguix.*
+*.uvgui.*
+JLinkLog.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
